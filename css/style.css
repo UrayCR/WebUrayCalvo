@@ -80,20 +80,20 @@ a:hover{
 
 @media only screen and (max-device-width: 480px) {
 
-.button {
-    	font-family:"Helvetica Neue",Helvetica,Arial,serif;
-    	font-size: 2em;
-    	font-weight: 700;
-    	letter-spacing: 0.03em;
-    	line-height: 1.2em;
-	display:block;
-	width:auto;
-	margin-left:auto
-	margin-right:auto;
-    	text-align: center;
-    	height: 100%;
-    	padding: 32px 20px 30px 30px;
-    	text-decoration: none;
-}
+	.button {
+    		font-family:"Helvetica Neue",Helvetica,Arial,serif;
+    		font-size: 2em;
+    		font-weight: 700;
+    		letter-spacing: 0.03em;
+    		line-height: 1.2em;
+		display:block;
+		width:auto;
+		margin-left:auto
+		margin-right:auto;
+    		text-align: center;
+    		height: 100%;
+    		padding: 32px 20px 30px 30px;
+    		text-decoration: none;
+	}
 
 }
