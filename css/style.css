@@ -28,17 +28,11 @@ a:hover{
     	height: 100%;
     	padding: 42px 30px 40px 40px;
     	text-decoration: none;    
-    	transition-property: background;
-	transition-duration: 0.5s;
-	transition-timing-function:  cubic-bezier(0.165, 0.840, 0.440, 1.000); 
 }
 
 .button:hover {
     	background-color:#fff;   
-    	transition-duration: 0.2s;
-    	-moz-transition-duration:0.2s;
-    	-webkit-transition-duration:0.2s;
-    	-o-transition-duration:0.2s;
+
 }
 
 .uray {
