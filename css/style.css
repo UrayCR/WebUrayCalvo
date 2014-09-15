@@ -68,7 +68,6 @@ a:hover{
     	background-color:#000709;
 }
 
-
 @media only screen and (max-device-width: 480px) {
 
 	.button {
@@ -84,7 +83,6 @@ a:hover{
     		text-align: center;
     		height: 100%;
     		padding: 32px 20px 30px 30px;
-    		text-decoration: none;
 	}
-
+	
 }
