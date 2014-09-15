@@ -60,13 +60,13 @@ a:hover{
     	background-color:#152738;
 }
 
-.tumblr {
+.email {
     	background-color:#081724;
 }
 
-.email {
+/*.email {
     	background-color:#000709;
-}
+}*/
 
 @media only screen and (max-device-width: 480px) {
 
