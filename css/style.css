@@ -36,37 +36,37 @@ a:hover{
     	background-color:#b4dbf9;
 }
 
-.estudiante {
+.trabajo {
     	background-color:#8bc3ee;
 }
 
-.microsoft {
+.estudiante {
     	background-color:#61a2d3;
 }
 
-.twitter {
+.microsoft {
 	background-color:#487dac;
 }
 
-.instagram {
+.twitter {
     	background-color:#2b5275;
 }
 
-.facebook {
+.instagram {
     	background-color:#173958;
 }
 
-.linkedin {
+.facebook {
     	background-color:#152738;
 }
 
-.email {
+.linkedin {
     	background-color:#081724;
 }
 
-/*.email {
+.email {
     	background-color:#000709;
-}*/
+}
 
 @media only screen and (max-device-width: 480px) {
 
